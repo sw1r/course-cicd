@@ -15,4 +15,4 @@ if __name__ == "__main__":
 
 def multiply(a, b):
     """Умножает два числа и возвращает результат."""
-    return a - b  # bug: должно быть 
+    return a * b  # bug:- 
