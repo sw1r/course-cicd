@@ -12,3 +12,7 @@ def greet(name):
 if __name__ == "__main__":
     print(greet("PM"))
     print(f"2 + 3 = {add(2, 3)}")
+
+def multiply(a, b):
+    """Умножает два числа и возвращает результат."""
+    return a * b  # bug:- 
