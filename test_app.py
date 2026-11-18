@@ -1,4 +1,4 @@
-from app import add, greet, multiply
+from app import add, greet
 
 def test_add():
     """Проверяет, что 2 + 3 = 5."""
